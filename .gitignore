@@ -1,0 +1,6 @@
+*.log
+*.pth
+*.stdlog
+pretrained/
+data/
+work_dirs/
