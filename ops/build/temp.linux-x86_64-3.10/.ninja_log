@@ -1,0 +1,4 @@
+# ninja log v5
+1	8436	1713601453000000000	/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/build/temp.linux-x86_64-3.10/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/src/cpu/ms_deform_attn_cpu.o	fc5e54149e7bf89c
+2	19514	1713601464000000000	/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/build/temp.linux-x86_64-3.10/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/src/vision.o	726ab7975d74fd15
+2	23763	1713601468000000000	/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/build/temp.linux-x86_64-3.10/mnt/petrelfs/taochenxin.p/projects/Long-Context-OP/Vision-RWKV/detection/ops/src/cuda/ms_deform_attn_cuda.o	5620cdb4f3f0d200
